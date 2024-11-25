@@ -1,8 +1,8 @@
 {
-  "name": "reveal.js-tableofcontents",
-  "version": "1.0.0",
-  "description": "A table of contents plugin for reveal.js to generate automatically a table of contents slide",
-  "main": "tableofcontents.js",
+  "name": "reveal.js-balanced-toc",
+  "version": "1.1.0",
+  "description": "A table of contents plugin for reveal.js to generate automatically a multi-columns table of contents slide",
+  "main": "plugin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,7 +20,7 @@
   "author": "Roman Stocker",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/naamor/reveal.js-tableofcontents/issues"
+    "url": "https://github.com/LucHermitte/reveal.js-balanced-toc.git/issues"
   },
-  "homepage": "https://github.com/naamor/reveal.js-tableofcontents#readme"
+  "homepage": "https://github.com/LucHermitte/reveal.js-balanced-toc.git#readme"
 }
